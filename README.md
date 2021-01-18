@@ -1,2 +1,2 @@
 # Machine-Learning Project 
-# Created ML Project on Crevical Cancer Prediction. 
+# Created ML Project on Cervical Cancer Prediction. 
